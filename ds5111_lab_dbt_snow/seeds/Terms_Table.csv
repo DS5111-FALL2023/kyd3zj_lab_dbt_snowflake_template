@@ -1,0 +1,46 @@
+﻿CourseMnemonic,Course_Name,Instructors_Name,Term
+ds_tech_bootcamp,ds tech bootcamp,Pete Alonzi,Fall2021
+stat6021,STAT 6021: Linear Models for Data Science,Jeffrey Woo,Fall2021
+ds5100,DS 5100 Programming for Data Science,Judy Fox,Fall2021
+cs5012,CS 5012: Foundations of Computer Science,Jeremy Bolton,Fall2021
+ds6030,DS 6030: Statistical Learning (prev SYS 6018: Data Mining),Bill Basener,Fall2021
+ds_biz_analytics,DS 5559: New Course in Data Science: Business Analytics for Data Scientists,Marc Ruggiano,Fall2021
+ds5110,DS 5110: Big Data Systems (prev. DS 5559 Big Data Analytics),Adam Tashman,Fall2021
+ds5001,DS 5001: Exploratory Text Analytics,Sree Mallikarjun,Fall2021
+ds6001,DS 6001: Practice & Application,Eric Tassone,Fall2021
+ds6011,DS 6011: Capstone,Jeremy Bolton & Peter Gedeck & Eric Tassone  & Abbas Kazemipour & Cait Dreisbach & Lei Xie,Fall2021
+ds6040,DS 6040: Bayesian Machine Learning,Bill Basener,Fall2021
+ds6002,DS 6002: Ethics of Big Data,Renee Cummings,Fall2021
+ds6050,DS 6050: Deep Learning,Stephen Baek,Fall2021
+ds6013,Capstone Part 2,Raf Alvarado & Teague Henry,Fall2021
+ds_tech_bootcamp,ds tech bootcamp,Pete Alonzi,Summer2021
+stat6021,STAT 6021: Linear Models for Data Science,Jeffrey Woo,Summer2021
+ds5100,DS 5100 Programming for Data Science,Nada Basit,Summer2021
+cs5012,CS 5012: Foundations of Computer Science,Jeremy Bolton,Summer2021
+ds6030,DS 6030: Statistical Learning (prev SYS 6018: Data Mining),Peter Gedeck,Summer2021
+ds5110,DS 5110: Big Data Systems (prev. DS 5559 Big Data Analytics),Adam Tashman,Summer2021
+ds5001,DS 5001: Exploratory Text Analytics,Sree Mallikarjun,Summer2021
+ds6001,DS 6001: Practice & Application,Raf Alvarado,Summer2021
+ds6011,DS 6011: Capstone,Raf Alvarado & Teague Henry,Summer2021
+ds6040,DS 6040: Bayesian Machine Learning,Teague Henry,Summer2021
+ds6002,DS 6002: Ethics of Big Data,Renee Cummings,Summer2021
+ds6050,DS 6050: Deep Learning,Rich Nguyen,Summer2021
+ds6013,Capstone Part 2,Jon Kropko,Summer2021
+ds6012,Ethics of Big Data 2,Renee Cummings,Summer2021
+ds6003,DS 6003 Practice & Application Pt 2,Jason Williamson,Summer2021
+ds_tech_bootcamp,ds tech bootcamp,Pete Alonzi,Spring2021
+stat6021,STAT 6021: Linear Models for Data Science,Jeffrey Woo,Spring2021
+ds5100,DS 5100 Programming for Data Science,Judy Fox,Spring2021
+cs5012,CS 5012: Foundations of Computer Science,Panagiotis Apostolellis,Spring2021
+ds6030,DS 6030: Statistical Learning (prev SYS 6018: Data Mining),Mike Porter,Spring2021
+ds5110,DS 5110: Big Data Systems (prev. DS 5559 Big Data Analytics),Adam Tashman,Spring2021
+ds5001,DS 5001: Exploratory Text Analytics,Sree Mallikarjun,Spring2021
+ds6001,DS 6001: Practice & Application,Jon Kropko,Spring2021
+ds6011,DS 6011: Capstone,Jon Kropko,Spring2021
+ds6040,DS 6040: Bayesian Machine Learning,Bill Basener,Spring2021
+ds6002,DS 6002: Ethics of Big Data 1,Luis Felipe Rosado Murillo,Spring2021
+ds6050,DS 6050: Deep Learning,Rich Nguyen,Spring2021
+ds6013,Capstone Part 2,Raf Alvarado,Spring2021
+ds6003,DS 6003 Practice & Application Pt 2,Jason Williamson,Spring2021
+ds6012,DS 6012: Big Data Ethics Pt 2,Luis Felipe Rosado Murillo,Spring2021
+sarc5400,Data Viz,Eric Field,Spring2021
